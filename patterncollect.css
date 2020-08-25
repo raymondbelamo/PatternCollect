@@ -3,6 +3,6 @@
     background: url(./images/background.jpg) center center / cover no-repeat;   
 }
 
-/* .card {
-    width: 18rem;
-} */
+.card-img, .card-img-bottom, .card-img-top {
+    height: 300px;
+}
